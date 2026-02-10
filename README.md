@@ -1,19 +1,13 @@
-# {{REPO_NAME}}
+# Signalintegration og etik
 
-- **PowerPoint slideshow**: `{{REPO_NAME}}.pptx`
-- **questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
-- **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
+- **`files`** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
 ---
 
 ## ​ Usage
-
-To use this template:
-
-1. Click **Use this template** on GitHub to create a new repo.
-2. Clone it locally:
-   ```bash
-   git clone https://github.com/you/{{REPO_NAME}}.git
-   cd {{REPO_NAME}}
+> ```zsh
+> git clone https://github.com/AAU-ST2-Programming/signals_4_workshop.git
+> cd signals_4_workshop
+> ```
 
 ## Forberedelse
 
