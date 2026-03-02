@@ -9,16 +9,6 @@
 **Introduktion af Workshop**:
 - Integrer tidligere signal-emner (signals_1, signals_2, signals_3) i én samlet analysepipeline.
 
-**Literature**
-- [Think Python, 3rd Edition af Allen B. Downey (online bog)](https://allendowney.github.io/ThinkPython/)
-  - Fokus: modulær struktur, funktioner/klasser og genbrug i analysekode
-- [Python for Everybody af Charles Severance (PDF)](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
-  - Fokus: datafiler, lister og robust håndtering af input
-- [Data Wrangling with Python af Jacek Gołębiewski (PDF)](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf)
-  - Fokus: dataforberedelse, feature-tabeller, visualisering og kvalitetstjek
-- [Databeskyttelsesloven (Retsinformation)](https://www.retsinformation.dk/eli/lta/2018/502)
-  - Fokus: dataminimering, sikker lagring og behandling af følsomme helbredsdata
-
 **Til Flowcharts of class diagrammer:**  
 Her er der 2 muligheder. Jeg bruger personligt `Mermaid` idag. 
 Men jeg startede med `DrawIO` hjemmesiden.
